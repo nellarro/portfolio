@@ -42,7 +42,7 @@ a {
 }
 a:hover,
 a:focus{
-	color: #2F937B;
+	color: #FFCB4A;
 	text-decoration: none;
 }
 
@@ -60,7 +60,7 @@ a:focus{
 
 /* Home Style */
 #tf-home{
-	background: url(../img/01.jpg);
+	background: url(../img/H.pineapple.jpeg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -118,7 +118,7 @@ a:focus{
 
 #tf-menu.navbar-default .navbar-nav > li > a:hover,
 #tf-menu.navbar-default .navbar-nav > li > a:focus {
-	color: #2F937B;
+	color: #FFCB4A;
 	background-color: transparent;
 }
 
@@ -144,6 +144,10 @@ a:focus{
 	color: rgb(47, 147, 123);
 }
 
+.media-body a {
+	color: goldenrod;
+}
+
 #tf-portfolio{
 	background: #f1f1f1;
 	padding: 5%  0 8% 0;
@@ -163,7 +167,7 @@ a.btn {
 }
 button.btn.btn-primary.my-btn,
 a.btn.btn-primary.my-btn {
-	background: #2F937B;
+	background: #FFCB4A;
 	border-color: transparent;
 	border-radius: 0px;
 	border-width: 2px;
@@ -176,7 +180,7 @@ a.btn.btn-primary.my-btn {
 button.btn.btn-primary.my-btn:hover,
 a.btn.btn-primary.my-btn:hover{
 	background: #FFFFFF;
-	color: #2F937B;
+	color: #FFCB4A;
 	border-color: transparent;
 }
 button.btn.btn-primary.my-btn.dark:hover,
@@ -199,24 +203,24 @@ a.btn.btn-primary.my-btn2 {
 }
 
 a.btn.btn-primary.my-btn2:hover{
-	background: #2F937B;
+	background: #FFCB4A;
 	color: #ffffff;
 	border-color: transparent;
 }
 
 ul.cat.list-inline li a {
-	border: 1px solid #2F937B;
+	border: 1px solid #FFCB4A;
 	padding: 5px 15px;
 	font-size: 11px;
 	text-transform: uppercase;
 	font-weight: 600;
 	letter-spacing: 1px;
-	color: #2F937B;
+	color: #FFCB4A;
 	transition: all 0.5s;
 }
 
 ul.cat.list-inline li a:hover{
-	background: #2F937B;
+	background: #FFCB4A;
 	color: #ffffff;
 }
 
@@ -265,40 +269,15 @@ ul.why-me li{
 	padding: 5% 0;
 	text-align: center;
 }
-
-form#contact {
-	padding: 5%;
-	background: #f1f1f1;
-	outline: 6px solid rgba(34, 34, 34, 0.08);
+#tf-contact a {
+	color: #222222;
+	padding-right: 2em;
 }
 
-#tf-contact input.form-control {
-	height: 40px;
+#tf-contact a:hover {
+	color: goldenrod;
 }
 
-#tf-contact .form-control{
-	display: block;
-	width: 100%;
-	margin-bottom: 20px;
-	padding: 16px 12px;
-	font-size: 14px;
-	line-height: 1.42857143;
-	color: #555;
-	background-color: #FFF;
-	background-image: none;
-	border: 1px solid #FFF;
-	border-radius: 0;
-	border-top: 2px solid transparent;
-	-webkit-box-shadow: none;
-	box-shadow: none;
-	-webkit-transition: none;
-	-o-transition: none;
-	transition: all 0.8s;
-}
-#tf-contact .form-control:focus,
-#tf-contact .form-control:hover{
-	border-top: 2px solid #2F937B;
-}
 nav#tf-footer {
 	background: #222222;
 	padding: 3% 0 2% 0;
