@@ -33,7 +33,7 @@ h5 {
 	margin-bottom: 0px;
 }
 p{
-	font-size: 13px;
+	font-size: 14px;
 }
 
 a {
@@ -133,7 +133,7 @@ a:focus{
 .media-left.media-middle i {
 	padding: 20px 30px 20px 0;
 	font-size: 30px;
-	color: rgb(47, 147, 123);
+	color: #FFCB4A;
 
 }
 
@@ -145,7 +145,7 @@ a:focus{
 }
 
 .media-body a {
-	color: goldenrod;
+	color: rgb(47, 147, 123);
 }
 
 #tf-portfolio{
@@ -238,6 +238,10 @@ ul.cat.list-inline li a:hover{
 	color: white;
 }
 
+#tf-about u {
+	color: #FFCB4A;
+}
+
 #tf-about .overlay{
 	height: auto;
 	background-attachment: fixed;
@@ -258,6 +262,11 @@ ul.cat.list-inline li a:hover{
 	background-attachment: fixed;
 	padding: 5% 0;
 }
+
+#tf-why-me h4 {
+	color: #FFCB4A;
+}
+
 ul.why-me li{
 	margin: 10px 0;
 }
