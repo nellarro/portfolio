@@ -229,12 +229,13 @@ ul.cat.list-inline li a:hover{
 .nopadding{ padding:  0;}
 
 #tf-about{
-	background: url(../img/07.jpg);
+	background: url(../img/anotherpineapple.jpeg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: scroll;
 	background-repeat: no-repeat;
-	color: #222222;
+	border-bottom: 3px rgba(0,0,0,0.66) solid;
+	color: white;
 }
 
 #tf-about .overlay{
@@ -244,12 +245,12 @@ ul.cat.list-inline li a:hover{
 }
 
 #tf-why-me{
-	background: url(../img/10.jpg);
+	background: url(../img/pineappleright.jpeg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: scroll;
 	background-repeat: no-repeat;
-	color: #222222;
+	color: white;
 }
 
 #tf-why-me .overlay{
