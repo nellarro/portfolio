@@ -146,6 +146,7 @@ a:focus{
 
 .media-body a {
 	color: rgb(47, 147, 123);
+	font-weight: bold;
 }
 
 #tf-portfolio{
