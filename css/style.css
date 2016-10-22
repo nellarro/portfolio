@@ -246,7 +246,7 @@ ul.cat.list-inline li a:hover{
 	background-position: center;
 	background-attachment: scroll;
 	background-repeat: no-repeat;
-	border-bottom: 3px rgba(0,0,0,0.66) solid;
+	border-bottom: 8px rgba(0,0,0,0.82) solid;
 	color: white;
 }
 
