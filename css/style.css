@@ -122,7 +122,7 @@ a:focus{
 	background-color: transparent;
 }
 
-.logo {
+.navbar-brand{
 	font-family: 'Playball', cursive;
 }
 
@@ -166,6 +166,12 @@ a.btn {
 	margin: 15px 5px;
 	transition: all 0.5s;
 }
+
+.section-title img {
+	margin-top: 2em;
+	border-radius: 80px;
+}
+
 button.btn.btn-primary.my-btn,
 a.btn.btn-primary.my-btn {
 	background: #FFCB4A;
