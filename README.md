@@ -1,6 +1,6 @@
-# portfolio
-Jenell Pizarro's Front End Engineering Portfolio   
-
+# Jenell's Portfolio
+###Jenell Pizarro's Front End Engineering Portfolio   
+A culmination of projects I'm proud of, contact information, and a little bit about me. 
 
 ##First Bootstrap!
 
