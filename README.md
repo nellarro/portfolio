@@ -4,6 +4,6 @@ A culmination of projects I'm proud of, contact information, and a little bit ab
 
 ##First Bootstrap!
 
-A boiler-plate was used but I was able to manipulate a lot of it. 
+A boiler-plate was used but I was able to manipulate most of it. 
 
-This portfolio showcases what I have done so far at the Iron Yard and what projects I have done on my own. 
+This portfolio showcases what projects I have done. It will continue to show the projects I will be doing and change, as far as design goes, multiple times.  
