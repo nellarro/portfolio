@@ -116,6 +116,10 @@ a:focus{
 	letter-spacing: 1px;
 }
 
+#tf-menu.navbar-default .navbar-nav .contactbutton {
+	color: #D87B76;
+}
+
 #tf-menu.navbar-default .navbar-nav > li > a:hover,
 #tf-menu.navbar-default .navbar-nav > li > a:focus {
 	color: #FFCB4A;
@@ -187,7 +191,7 @@ a.btn.btn-primary.my-btn {
 button.btn.btn-primary.my-btn:hover,
 a.btn.btn-primary.my-btn:hover{
 	background: #FFFFFF;
-	color: #FFCB4A;
+	color: #222222;
 	border-color: transparent;
 }
 button.btn.btn-primary.my-btn.dark:hover,
