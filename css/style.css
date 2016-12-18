@@ -154,7 +154,7 @@ a:focus{
 }
 
 #tf-portfolio{
-	background: rgba(255, 203, 74, 0.27);
+	background: rgba(255, 203, 74, 0.08);
 	border-top: 4px rgba(0, 0, 0, 0.12) solid;
 	border-bottom: 4px rgba(0, 0, 0, 0.12) solid;
 	padding: 5%  0 8% 0;
@@ -317,10 +317,10 @@ nav#tf-footer {
 }
 
 .gifs img{
-	border: 3px solid rgba(34, 34, 34, 0.2);
+	border: 3px solid rgba(38, 38, 34, 0.7);
 	border-radius: 4px;
 }
 
 .gifs2 img{
-	border: 2px solid rgba(58, 31, 31, 0.24);
+	border: 2px solid rgba(58, 31, 31, 0.4);
 }
