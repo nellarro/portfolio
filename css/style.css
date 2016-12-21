@@ -1,8 +1,8 @@
-@import url(http://fonts.googleapis.com/css?family=Raleway:500,600,700,100,800,900,400,200,300);
+@import url(http://fonts.googleapis.com/css?family=Nunito+Sans:500,600,700,100,800,900,400,200,300);
 @import url(http://fonts.googleapis.com/css?family=Playball);
 
 body, html{
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Nunito Sans', sans-serif;
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
 }
@@ -155,10 +155,17 @@ a:focus{
 
 #tf-portfolio{
 	background: rgba(255, 203, 74, 0.08);
+	background: linear-gradient(to bottom right, #f6f1d3, #d6f1d6, #648880 65%, #293f50);
 	border-top: 4px rgba(0, 0, 0, 0.12) solid;
 	border-bottom: 4px rgba(0, 0, 0, 0.12) solid;
 	padding: 5%  0 8% 0;
 	text-align: center;
+}
+
+#tf-portfolio h2{
+	font-family: Nunito Sans;
+	font-weight: lighter;
+	color: #293f50;
 }
 
 .section-title hr{
@@ -166,7 +173,7 @@ a:focus{
 	width: 60px;
 }
 
-.section-title h2{ font-weight: 700;}
+.section-title h2{ font-weight: 800;}
 button.btn,
 a.btn {
 	margin: 15px 5px;
@@ -304,6 +311,11 @@ ul.why-me li{
 #tf-contact a {
 	color: #222222;
 	padding-right: 2em;
+	font-size: 1.2em;
+}
+
+#tf-contact h3{
+	font-family: Playball;
 }
 
 #tf-contact a:hover {
