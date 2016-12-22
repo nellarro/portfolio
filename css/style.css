@@ -1,5 +1,4 @@
 @import url(http://fonts.googleapis.com/css?family=Nunito+Sans:500,600,700,100,800,900,400,200,300);
-@import url(http://fonts.googleapis.com/css?family=Playball);
 
 body, html{
 	font-family: 'Nunito Sans', sans-serif;
@@ -128,7 +127,8 @@ a:focus{
 }
 
 .navbar-brand{
-	font-family: 'Playball', cursive;
+	font-family: 'Dancing Script', cursive;
+	font-size: 2em;
 }
 
 #tf-service{
@@ -175,6 +175,15 @@ Portfolio section*/
 	width: 60px;
 }
 
+.gifs img{
+	border: 3px solid rgba(38, 38, 34, 0.7);
+	border-radius: 4px;
+}
+
+.gifs2 img{
+	border: 2px solid rgba(58, 31, 31, 0.4);
+}
+
 .section-title h2{ font-weight: 800;}
 button.btn,
 a.btn {
@@ -199,18 +208,21 @@ a.btn.btn-primary.my-btn {
 	letter-spacing: 1px;
 	font-weight: 600;
 }
+
 button.btn.btn-primary.my-btn:hover,
 a.btn.btn-primary.my-btn:hover{
 	background: #FFFFFF;
 	color: #222222;
 	border-color: transparent;
 }
+
 button.btn.btn-primary.my-btn.dark:hover,
 a.btn.btn-primary.my-btn.dark:hover{
 	background: #222222;
 	color: #ffffff;
 	border-color: transparent;
 }
+
 a.btn.btn-primary.my-btn2 {
 	background: rgba(47, 147, 123, 0);
 	border-color: #FFFFFF;
@@ -302,9 +314,17 @@ ul.cat.list-inline li a:hover{
 	font-size: 2.8em;
 }
 
+.about-container, .why-container {
+	background-color: rgba(0,0,0,0.28);
+	border-radius: 7px;
+}
+
 ul.why-me li{
 	margin: 10px 0;
 }
+
+/*Contact Info and Footer*/
+
 #tf-contact{
 	background: url(../img/08.jpg);
 	background-size: cover;
@@ -321,7 +341,7 @@ ul.why-me li{
 }
 
 #tf-contact h3, #tf-portfolio h2{
-	font-family: 'Playball';
+	font-family: 'Dancing Script', cursive;
 	font-size: 3.1em;
 }
 
@@ -333,15 +353,6 @@ nav#tf-footer {
 	background: #222222;
 	padding: 3% 0 2% 0;
 	color: #f1f1f1;
-}
-
-.gifs img{
-	border: 3px solid rgba(38, 38, 34, 0.7);
-	border-radius: 4px;
-}
-
-.gifs2 img{
-	border: 2px solid rgba(58, 31, 31, 0.4);
 }
 
 .jenell {
