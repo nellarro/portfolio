@@ -170,6 +170,15 @@ Portfolio section*/
  font-size: 3.1em;
  color: #222222;
 }
+
+#tf-portfolio .col-md-4 img {
+	max-width: 324px;
+	max-height: 264px;
+}
+
+.end-last-col, .mid-last-col {
+	padding-left: 1.5em;
+}
 .section-title hr{
 	border-color: rgb(47, 147, 123);
 	width: 60px;
