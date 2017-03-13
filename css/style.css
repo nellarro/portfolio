@@ -172,8 +172,8 @@ Portfolio section*/
 }
 
 #tf-portfolio .col-md-4 img {
-	max-width: 324px;
-	max-height: 264px;
+	max-width: 297px;
+	height: 264px;
 }
 
 .end-last-col, .mid-last-col {
