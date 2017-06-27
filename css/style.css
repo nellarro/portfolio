@@ -127,8 +127,9 @@ a:focus{
 }
 
 .navbar-brand{
-	font-family: 'Parisienne', cursive;
+	font-family: 'Megrim', cursive;
 	font-size: 2em;
+	font-weight: bold;
 }
 
 #tf-service{
@@ -150,15 +151,16 @@ a:focus{
 }
 
 .media-body a {
-	color: rgb(47, 147, 123);
+	color: #D87B76;
 	font-weight: bold;
+	text-decoration: underline;
 }
 /*
 Portfolio section*/
 
 #tf-portfolio{
-	background: rgba(255, 203, 74, 0.08);
-	background: linear-gradient(to bottom right, #f6f1d3, #d6f1d6, #648880 49%, #293f50);
+	background: #293f50;
+	background: linear-gradient(to right, #293f50, #648880, #d6f1d6, #f6f1d3);
 	border-top: 4px rgba(0, 0, 0, 0.12) solid;
 	border-bottom: 4px rgba(0, 0, 0, 0.12) solid;
 	padding: 5%  0 8% 0;
@@ -169,6 +171,7 @@ Portfolio section*/
  font-weight: lighter;
  font-size: 3.1em;
  color: #222222;
+ font-weight: bold;
 }
 
 #tf-portfolio .col-md-4 img {
@@ -179,6 +182,7 @@ Portfolio section*/
 .end-last-col, .mid-last-col {
 	padding-left: 1.5em;
 }
+
 .section-title hr{
 	border-color: rgb(47, 147, 123);
 	width: 60px;
@@ -350,7 +354,7 @@ ul.why-me li{
 }
 
 #tf-contact h3, #tf-portfolio h2{
-	font-family: 'Parisienne', cursive;
+	font-family: 'Megrim', cursive;
 	font-size: 3.1em;
 }
 
